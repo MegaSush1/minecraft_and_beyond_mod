@@ -1,2 +1,2 @@
-#Minecraft And Beyond mod
-- MégaSushi -
+# Minecraft And Beyond mod
+[ MégaSushi ]
